@@ -46,3 +46,4 @@ document.addEventListener('DOMContentLoaded', function() {
 // Add event listener to calculate percentage when button is clicked
 var calculateButton = document.getElementById('calculateButton');
 calculateButton.addEventListener('click', calculatePercentage);
+ee
